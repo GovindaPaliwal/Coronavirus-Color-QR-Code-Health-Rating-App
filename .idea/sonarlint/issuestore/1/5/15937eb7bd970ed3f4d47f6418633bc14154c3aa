@@ -1,0 +1,17 @@
+
+vsquid:S1450""XRemove the "condition" field and declare it as a local variable in the relevant methods.(ðÀ”Ï8Ý·‹ËŒ.
+isquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(è²Ã8¦î¬ÊŒ.
+Csquid:S1659"%Declare "txtName" on a separate line.(ËØšø8Ú™ßËŒ.
+Asquid:S1659"#Declare "txtId" on a separate line.(ËØšø8Ú™ßËŒ.
+wsquid:S1450"YRemove the "txtMessage" field and declare it as a local variable in the relevant methods.(ËØšø8çÜŽËŒ.
+tsquid:S1450"VRemove the "txtMark" field and declare it as a local variable in the relevant methods.(ËØšø8ÜæÛÉŒ.
+^squid:UselessImportCheck"4Remove this unused import 'android.graphics.Bitmap'.(¾ì8Ó¢‚ÊŒ.
+Fsquid:S1659"(Declare "txtMessage" on a separate line.(ËØšø8ŽŽËŒ.
+Fsquid:S1148n"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‹ÌæÉŒ.
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Ø‡çÎ8ÜæÛÉŒ.
+rsquid:S1450"TRemove the "imgQr" field and declare it as a local variable in the relevant methods.(äè…8çÜŽËŒ.
+\squid:UselessImportCheck"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8ÜæÛÉŒ.
+tsquid:S1450"VRemove the "txtName" field and declare it as a local variable in the relevant methods.(ËØšø8£‹áËŒ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¤›ïÞ8”¶”ÌŒ.
+@squid:S1659""Declare "name" on a separate line.(ÈÝÚ8Ô‹ØËŒ.
+rsquid:S1450"TRemove the "txtId" field and declare it as a local variable in the relevant methods.(ËØšø8£‹áËŒ.

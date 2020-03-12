@@ -1,0 +1,6 @@
+
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(²Ú±Ž
+Esquid:S1659!""Declare "etId" on a separate line.(ûÊÞýÿÿÿÿ8ºÆÑËŒ.
+nsquid:S1301y"KReplace this "switch" statement by "if" statements to increase readability.(ÿ«¬‹üÿÿÿÿ8ò÷ÈŒ.
+nsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(¯¬âÿÿÿÿÿ8‡—ÓÈŒ.
+\"squid:SwitchLastCaseIsDefaultChecky""Add a default case to this switch.(ÿ«¬‹üÿÿÿÿ8ò÷ÈŒ.
