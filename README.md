@@ -3,7 +3,7 @@ Generate a colored QR code representing the health of person and help to allow /
 
 Question with Details |  Safe QR |  Cure QR |  Red Help QR
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![image](https:///screens/questions.png)  |  ![image](https:///screens/safeqr.png) |  ![image](https:///screens/cureqr.png) |  ![image](https:///screens/redqr.png)
+![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/questions.png)  |  ![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/safeqr.png) |  ![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/cureqr.png) |  ![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/redqr.png)
 
 
 This is very basic module app currently. Now this is only native android app. but if anyone want to follow this idea in own company to allow entry to employee in using colored based QR Code monitoring then use this module with few changes and improvement . 
@@ -22,7 +22,8 @@ while users with a green QR code may entry freely but need to stay safe and be c
 
 Entry gate watchmen may have asked to view and scan employee QR codes and check employee is ok to enter in building / office or not.
 
-# Note : Generate encrypted QR Code with only 1 day validation and 1 QR code for only one person, So other person cannot copy this image or edit this qr code string. Currently working on it.
+## Note : 
+Generate encrypted QR Code with only 1 day validation and 1 QR code for only one person, So other person cannot copy this image or edit this qr code string. Currently working on it.
 
 #Current Version 
 In this application currently i generate colour based qr code with specific question related to CORONA VIRUS symptoms with name and id. And user received QR Code after complete this survey form.
