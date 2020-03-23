@@ -1,6 +1,12 @@
 # Color QR Code Health Rating App for Corona Virus
 Generate a colored QR code representing the health of person and help to allow / banned entry in workplace and also help to count IN-OUT numbers. 
 
+### Live global stats (provided by [fight-covid19/bagdes](https://github.com/fight-covid19/bagdes)) from this API:**
+
+![Covid-19 Confirmed](https://covid19-badges.herokuapp.com/confirmed/latest?long=true)
+![Covid-19 Recovered](https://covid19-badges.herokuapp.com/recovered/latest?long=true)
+![Covid-19 Deaths](https://covid19-badges.herokuapp.com/deaths/latest?long=true)
+
 Question with Details |  Safe QR |  Cure QR |  Red Help QR
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/questions.png)  |  ![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/safeqr.png) |  ![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/cureqr.png) |  ![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/redqr.png)
