@@ -14,7 +14,7 @@ Question with Details |  Safe QR |  Cure QR |  Red Help QR
 
 This is very basic module app currently. Now this is only native android app. but if anyone want to follow this idea in own company, city to allow entry to employee / person in using colored based QR Code monitoring then use this module with few changes and improvement . 
 
-This idea is inspired by Alipay / Alibaba app. Not same but they include this type of module (In large scale) in there application with gov help for city IN - OUT system.
+### This idea is inspired by Alipay / Alibaba app. Not same but they include this type of module (In large scale) in there application with gov help for city IN - OUT system.
 
 ### How this module work 
 
