@@ -1,5 +1,5 @@
 # Color QR Code Health Rating App for Corona Virus
-Generate a colored QR code representing the health of person and help to allow / banned entry in workplace and also help to count IN-OUT numbers. 
+Generate a colored QR code representing the health of person and help to allow / banned entry in workplace, City, local polices and also help to count IN-OUT numbers in lockdown period. 
 
 ### Live global stats (provided by [fight-covid19/bagdes](https://github.com/fight-covid19/bagdes)) from this API:**
 
