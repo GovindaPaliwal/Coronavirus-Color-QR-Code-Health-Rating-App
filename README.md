@@ -1,5 +1,5 @@
 # Color QR Code Health Rating App for Corona Virus
-Generate a colored QR code representing the health of person and help to allow / banned entry in workplace, City, local polices and also help to count IN-OUT numbers in lockdown period. 
+Generate a colored QR code representing the health of person and help to allow / banned entry in workplace, City and also help to count IN-OUT numbers in lockdown period. 
 
 ### Live global stats (provided by [fight-covid19/bagdes](https://github.com/fight-covid19/bagdes)) from this API:**
 
@@ -12,13 +12,13 @@ Question with Details |  Safe QR |  Cure QR |  Red Help QR
 ![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/questions.png)  |  ![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/safeqr.png) |  ![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/cureqr.png) |  ![image](https://github.com/GovindaPaliwal/coronavirus-Color-QR-Code-Health-Rating-App/blob/master/screens/redqr.png)
 
 
-This is very basic module app currently. Now this is only native android app. but if anyone want to follow this idea in own company to allow entry to employee in using colored based QR Code monitoring then use this module with few changes and improvement . 
+This is very basic module app currently. Now this is only native android app. but if anyone want to follow this idea in own company, city to allow entry to employee / person in using colored based QR Code monitoring then use this module with few changes and improvement . 
 
 This idea is inspired by Alipay / Alibaba app. Not same but they include this type of module (In large scale) in there application with gov help for city IN - OUT system.
 
 ### How this module work 
 
-Every employee fill out an form with specific field like Emp ID, name etc and fill few question-answer in Yes / No format. With the help of this information user receive a color-based QR-code and status message on their mobile phones which indicating their health status
+Every employee fill out an form with specific field like Emp ID / autho ID, name etc and fill few question-answer in Yes / No format. With the help of this information user receive a color-based QR-code and status message on their mobile phones which indicating their health status
 
 Users with a red code means instructed to remain quarantined for 14 days and provide regular checkup and entry banned in office workplace.
 
